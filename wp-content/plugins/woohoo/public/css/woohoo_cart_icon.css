@@ -1,0 +1,28 @@
+.woohoo_cart_icon {
+	display: inline-block;
+	position: relative;
+    max-width: 24px;
+}
+
+.woohoo_counter {
+    display: inline-block;
+    text-align: center;
+    height: 16px;
+    min-width: 16px;
+    line-height: 16px;
+    border-radius: 8px;
+    position: absolute;
+    top: -5px;
+    left: 100%;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 0 4px;
+}
+
+.woohoo_cart_contents_wrapper {
+	display: none;
+}
+
+#woohoo_cart_contents {
+	font-size: 0.8rem;
+}
